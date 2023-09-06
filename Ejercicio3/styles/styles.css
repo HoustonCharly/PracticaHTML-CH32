@@ -1,0 +1,79 @@
+.spotify{
+background-color: #1a1414;
+color: darkgray;
+}
+.spot1{
+   padding-left: 90px;
+}
+.spot{
+   float: inline-end;
+   padding-right: 200px;
+   display: block;
+   width: 15%;
+   height: 15%;
+}
+h2{
+   padding-left: 100px;
+}
+a{
+   font-size: 25px;
+   color: darkgray;
+   display: flex;
+   padding-left: 500px;
+}
+.insta{
+   background-color: #fff;
+   color: rgb(56, 56, 56);
+}
+.insta1{
+      padding-left: 90px;
+}
+.inst{
+      float: inline-end;
+      padding-right: 180px;
+      display: block;
+      width: 35%;
+      height: 35%;
+}
+.Link{
+   background-color: #007bb6;
+   color: rgb(56, 56, 56);
+}
+.Link1{
+      padding-left: 90px;
+}
+.Lin{
+      float: inline-end;
+      padding-right: 180px;
+      display: block;
+      width: 35%;
+      height: 35%;
+}
+.youtube{
+   background-color: #c1181e;
+   color: rgb(206, 178, 178);
+}
+.you1{
+      padding-left: 90px;
+}
+.yout{
+      float: inline-end;
+      padding-right: 180px;
+      display: block;
+      width: 30%;
+      height: 30%;
+}
+.twitter{
+   background-color: #010005;
+   color: rgb(255, 255, 255);
+}
+.twit1{
+      padding-left: 90px;
+}
+.twit{
+      float: inline-end;
+      padding-right: 180px;
+      display: block;
+      width: 25%;
+      height: 25%;
+}

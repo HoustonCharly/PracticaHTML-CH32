@@ -1,0 +1,17 @@
+.size{
+   font-size: 15px;
+}
+.strong{
+      font-weight: bold;
+      
+}
+.italic{
+      font-style: italic;
+      font-weight: bold;
+}
+.padd{
+      padding-left: 35px;
+}
+.ital{
+      font-style: italic;
+}

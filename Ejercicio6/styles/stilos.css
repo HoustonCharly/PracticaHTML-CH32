@@ -1,0 +1,36 @@
+body{
+   background-color: #d2cbb5;
+}
+.imagen{
+   padding-left: 40%;
+   float: center;
+   display: block;
+   width: 18%;
+   height: 18%;
+}
+.texto{
+   font-size: 15px;
+   font-family:helvetica;
+   text-align: left;
+   padding: 10px 250px 10px;
+   display: block;
+}
+h2{
+   font-style: oblique;
+   font-size: 30px;
+   padding-left: 150px;
+}
+.album{
+  padding: 10px 200px 10px;
+   display: inline-flex;
+   text-align: center;
+   font-size: 15px;
+   font-family: helvetica;
+}
+a{
+
+   text-align: center;
+   text-decoration: none;
+   color: rgb(0, 9, 66);
+   font-size: 35px;
+}
